@@ -2,7 +2,7 @@
 
 ![Design preview for the 3-column preview card component coding challenge](design/desktop-preview.jpg)
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-bootstrap-iwFoNFB6Nz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://raw.githubusercontent.com/nurularifin83/column-preview-card/main/SS%20Result.png). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 

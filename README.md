@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge]([design/desktop-preview.jpg](https://raw.githubusercontent.com/nurularifin83/column-preview-card/main/SS%20Result.png))
+![Design preview for the 3-column preview card component coding challenge](https://raw.githubusercontent.com/nurularifin83/column-preview-card/main/SS%20Result.png)
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://raw.githubusercontent.com/nurularifin83/column-preview-card/main/SS%20Result.png). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 

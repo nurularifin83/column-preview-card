@@ -1,0 +1,89 @@
+html, body {
+    font-size: 15px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+h2 {
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+p {
+    color: #D8E3E7;
+}
+
+.d-col-one {
+    background-color: hsl(31, 77%, 52%);
+    color: #FFFFFF;
+    border-radius: 15px 0 0 15px;
+}
+
+.d-col-two {
+    background-color: hsl(184, 100%, 22%);
+    color: #FFFFFF;
+}
+
+.d-col-three {
+    background-color: hsl(179, 100%, 13%);
+    color: #FFFFFF;
+    border-radius: 0 15px 15px 0;
+}
+
+@media only screen and (max-width: 1440px) {
+    .d-col-one {
+        border-radius: 15px 0 0 15px;
+    }
+
+    .d-col-three {
+        border-radius: 0 15px 15px 0;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .d-col-one {
+        border-radius: 15px 15px 0 0;
+    }
+
+    .d-col-three {
+        border-radius: 0 0 15px 15px;
+    }
+}
+
+/*Button*/
+button {
+    display: inline-block;
+    padding: 11px 44px;
+    border-radius: 28px;
+}
+
+.btn-one {
+    border: 1px solid hsl(31, 77%, 52%);
+    color: hsl(31, 77%, 52%);
+}
+
+.btn-one:hover {
+    background-color: hsl(31, 77%, 52%);
+    border: 2px solid white;
+    color: white;
+}
+
+.btn-two {
+    border: 1px solid hsl(184, 100%, 22%);
+    color: hsl(184, 100%, 22%);
+}
+
+.btn-two:hover {
+    background-color: hsl(184, 100%, 22%);
+    border: 2px solid white;
+    color: white;
+}
+
+.btn-three {
+    border: 1px solid hsl(179, 100%, 13%);
+    color: hsl(179, 100%, 13%);
+}
+
+.btn-three:hover {
+    background-color: hsl(179, 100%, 13%);
+    border: 2px solid white;
+    color: white;
+}

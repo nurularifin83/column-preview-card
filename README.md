@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-bootstrap-iwFoNFB6Nz)
-- Live Site URL: [Live site URL here](https://nurularifin83.github.io/order-summary-component/)
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/column-preview-card/)
 
 ## My process
 

@@ -11,6 +11,11 @@ p {
     color: #D8E3E7;
 }
 
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
 .d-col-one {
     background-color: hsl(31, 77%, 52%);
     color: #FFFFFF;

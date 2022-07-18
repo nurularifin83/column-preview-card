@@ -1,8 +1,8 @@
 # Frontend Mentor - 3-column preview card component
 
-![Design preview for the 3-column preview card component coding challenge](design/desktop-preview.jpg)
+![Design preview for the 3-column preview card component coding challenge](https://raw.githubusercontent.com/nurularifin83/column-preview-card/main/SS%20Result.png)
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-bootstrap-iwFoNFB6Nz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/reponsive-3-column-preview-card-component-built-with-bootstrap-wQrp3GRBVL). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-order-summary-card-with-bootstrap-iwFoNFB6Nz)
-- Live Site URL: [Live site URL here](https://nurularifin83.github.io/order-summary-component/)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/reponsive-3-column-preview-card-component-built-with-bootstrap-wQrp3GRBVL)
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/column-preview-card/)
 
 ## My process
 
